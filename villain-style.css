@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+}
+
+header {
+  background-color: #950000;
+  padding-bottom: 50px;
+  border-radius: 25px;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.big {
+  font-size: 60px;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 5px solid #FFF;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
